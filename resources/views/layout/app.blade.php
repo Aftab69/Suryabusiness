@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="assets/css/boxicons.min.css">
     <!-- Flaticon CSS -->
     <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/boxicons.css">
+
     <!-- Odometer CSS -->
     <link rel="stylesheet" href="assets/css/odometer.min.css">
     <!-- Nice Select CSS -->
@@ -58,17 +60,16 @@
                     <ul class="top-header-content">
                         <li>
                             <i class='bx bx-envelope'></i>
-                            <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#344744414652745359555d581a575b59"><span class="__cf_email__" data-cfemail="e29192979084a2858f838b8ecc818d8f">[email&#160;protected]</span></a>
+                            <a href="mailto:suryacoworking@gmail.com">suryacoworking@gmail.com</a>
                         </li>
 
                         <li>
                             <i class='bx bx-support'></i>
-                            <a href="tel:012345678">+012 345 678</a>
+                            <a href="tel:+916001083238">+916001083238</a>
                         </li>
 
                         <li>
-                            <i class='bx bx-map'></i>
-                            15 Brooklyn Street, New York, USA
+                            <i class='bx bx-map'></i>503, Orion Towers, GS Rd, Christian Basti, Guwahati, Assam 781005
                         </li>
                     </ul>
                 </div>
@@ -76,17 +77,11 @@
                 <div class="col-lg-5 col-md-3">
                     <ul class="top-header-optional">
                         <li>
-                            <a href="https://www.facebook.com/" target="_blank">
+                            <a href="https://www.facebook.com/suryabusinesscentre" target="_blank">
                                 <i class='bx bxl-facebook'></i>
                             </a>
-                            <a href="https://twitter.com/?lang=en" target="_blank">
-                                <i class='bx bxl-twitter'></i>
-                            </a>
-                            <a href="https://www.instagram.com/" target="_blank">
+                            <a href="https://https://www.instagram.com/suryabusinesscentre/" target="_blank">
                                 <i class='bx bxl-instagram-alt'></i>
-                            </a>
-                            <a href="https://www.google.com/" target="_blank">
-                                <i class='bx bxl-google'></i>
                             </a>
                         </li>
                     </ul>
@@ -124,7 +119,7 @@
                             <li class="nav-item">
                                 <a href="/" class="nav-link @yield('home')">
                                     Home
-                                
+
                                 </a>
 
 
@@ -138,17 +133,17 @@
                                 <a href="/workspaces" class="nav-link @yield('workspaces')">Workspaces</a>
                             </li>
                             <li class="nav-item">
-                                <a href="/pricing" class="nav-link @yield('pricing')">Pricing</a>
+                                <a href="/pricing" class="nav-link @yield('pricing')">Membership</a>
                             </li>
                             <li class="nav-item">
-                                <a href="/services" class="nav-link @yield('services')">Services</a>
+                                <a href="/services" class="nav-link @yield('services')">Amenities</a>
                             </li>
 
-                            <li class="nav-item">
+                            <!-- <li class="nav-item">
                                 <a href="/blog" class="nav-link @yield('blog')">
                                     Blog
                                 </a>
-                            </li>
+                            </li> -->
 
                             <li class="nav-item">
                                 <a href="/contact" class="nav-link @yield('contact')">Contact</a>
@@ -207,20 +202,20 @@
                     <div class="single-footer-widget">
                         <div class="widget-logo">
                             <a href="home.html">
-                                <img src="assets/images/logo-2.png" alt="image">
+                                <img src="assets/images/suryalogo.svg" alt="image">
                             </a>
                         </div>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin lorem quis bibendum auctor nisi elit consequat ipsum thnec sagittis sem nibh id elit.</p>
+                        <p>A professional work space, inspiring great minds in creating great things. We host people from diverse backgrounds such as digital nomads, entrepreneurs, freelancers, corporate employees and startup enthusiasts.</p>
 
                         <ul class="widget-info">
                             <li>
                                 <i class='bx bxs-phone'></i>
-                                <a href="tel:0023567890">+00 234 567 890</a>
+                                <a href="tel:0023567890">+916001083238</a>
                             </li>
 
                             <li>
                                 <i class='bx bx-envelope-open'></i>
-                                <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#aedddedbdcc8eec9c3cfc7c280cdc1c3"><span class="__cf_email__" data-cfemail="46353633342006212b272f2a6825292b">[email&#160;protected]</span></a>
+                                <a href="mailto:suryacoworking@gmail.com">suryacoworking@gmail.com</a>
                             </li>
                         </ul>
                     </div>
@@ -231,25 +226,25 @@
                         <h3>Our Company</h3>
 
                         <ul class="footer-links-list">
-                            <li><a href="contact.html">Our Location</a></li>
-                            <li><a href="about.html">About Our Mission</a></li>
-                            <li><a href="about.html">Careers</a></li>
-                            <li><a href="events-details.html">Event Venue</a></li>
-                            <li><a href="blog.html">Our News</a></li>
+                            <li><a href="/contact">Contact Us</a></li>
+                            <li><a href="/about">About Us</a></li>
+                            <li><a href="/pricing">Membership</a></li>
+                            <li><a href="">Careers</a></li>
+                            <li><a href="">Blogs</a></li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-footer-widget">
-                        <h3>Our Services</h3>
+                        <h3>Our Workspaces</h3>
 
                         <ul class="footer-links-list">
-                            <li><a href="services-details.html">Coworking</a></li>
-                            <li><a href="services-details.html">Dedicated Office</a></li>
-                            <li><a href="services-details.html">Hot Desking</a></li>
-                            <li><a href="services-details.html">Virtual Office</a></li>
-                            <li><a href="workspaces.html">Meeting Rooms</a></li>
+                            <li><a href="/workspaces">Coworking</a></li>
+                            <li><a href="/workspaces">Dedicated Office</a></li>
+                            <li><a href="/workspaces">Hot Desking</a></li>
+                            <li><a href="/workspaces">Virtual Office</a></li>
+                            <li><a href="/workspaces">Meeting Rooms</a></li>
                         </ul>
                     </div>
                 </div>
@@ -259,33 +254,24 @@
                         <h3>All Support</h3>
 
                         <ul class="footer-links-list">
-                            <li><a href="services-details.html">Help Desk</a></li>
-                            <li><a href="events-booking.html">Book A Tour</a></li>
-                            <li><a href="contact.html">Know Us</a></li>
-                            <li><a href="services-details.html">Virtual Office</a></li>
+                            <li><a href="">Help Desk</a></li>
+                            <li><a href="/book-tour">Book A Tour</a></li>
+                            <li><a href="/about">Know Us</a></li>
+                            <li><a href="/pricing">Virtual Office</a></li>
                         </ul>
 
                         <ul class="widget-social">
                             <li>
-                                <a href="https://twitter.com/?lang=en" target="_blank">
-                                    <i class='bx bxl-twitter'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.facebook.com/" target="_blank">
+                                <a href="https://www.facebook.com/suryabusinesscentre" target="_blank">
                                     <i class='bx bxl-facebook'></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com/" target="_blank">
+                                <a href="https://www.instagram.com/suryabusinesscentre/" target="_blank">
                                     <i class='bx bxl-instagram-alt'></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://www.linkedin.com/" target="_blank">
-                                    <i class='bx bxl-linkedin'></i>
-                                </a>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
@@ -301,9 +287,9 @@
                                 Copyright @<script data-cfasync="false" src="https://templates.envytheme.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
                                 <script>
                                     document.write(new Date().getFullYear())
-                                </script> Spurf All Rights Reserved by
-                                <a href="https://envytheme.com/" target="_blank">
-                                    EnvyTheme
+                                </script> Surya All Rights Reserved. Developed by
+                                <a href="https://infinityymedia.com/" target="_blank">
+                                    Infinityymedia
                                 </a>
                             </p>
                         </div>

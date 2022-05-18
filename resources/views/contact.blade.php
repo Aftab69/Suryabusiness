@@ -10,7 +10,7 @@
             <h2>Contact Us</h2>
 
             <ul class="pages-list">
-                <li><a href="home.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li>Contact Us</li>
             </ul>
         </div>
@@ -34,7 +34,7 @@
                     </div>
 
                     <h3>Address</h3>
-                    <p>15 Brooklyn Street, New York, <br> USA</p>
+                    <p>503, Orion Towers, GS Rd, Christian Basti, Guwahati, Assam 781005</p>
                 </div>
             </div>
 
@@ -45,8 +45,8 @@
                     </div>
 
                     <h3>Phone</h3>
-                    <p><a href="tel:012345678">+012 345 678</a></p>
-                    <p><a href="tel:012345876">+012 345 876</a></p>
+                    <p><a href="tel:+916001083238">+916001083238</a></p>
+
                 </div>
             </div>
 
@@ -57,21 +57,23 @@
                     </div>
 
                     <h3>Email</h3>
-                    <p><a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#4e3d3e3b3c280e29232f2722602d2123"><span class="__cf_email__" data-cfemail="c5b6b5b0b7a385a2a8a4aca9eba6aaa8">[email&#160;protected]</span></a></p>
-                    <p><a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#bbc8cecbcbd4c9cffbc8cbcec9dd95d8d4d6"><span class="__cf_email__" data-cfemail="aad9dfdadac5d8deead9dadfd8cc84c9c5c7">[email&#160;protected]</span></a></p>
+                    <p><a href="mailto:suryacoworking@gmail.com">suryacoworking@gmail.com</a></p>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- End Contact Info Area -->
-
+<div class="mapouter">
+    <div class="gmap_canvas"><iframe width="100%" height="480" id="gmap_canvas" src="https://maps.google.com/maps?q=surya%20business%20center&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    </div>
+</div>
 <!-- Start Contact Area -->
 <div class="contact-area ptb-100">
     <div class="container">
         <div class="section-title">
-            <span>Get in Touch</span>
-            <h2>Fill Up the Frm and send Query We will Contact You </h2>
+
+            <h2>Get in Touch</h2>
         </div>
 
         <div class="contact-form">
@@ -122,5 +124,6 @@
         </div>
     </div>
 </div>
+
 <!-- End Contact Area -->
 @endsection

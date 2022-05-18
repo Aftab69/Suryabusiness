@@ -10,7 +10,7 @@
             <h2>Workspaces</h2>
 
             <ul class="pages-list">
-                <li><a href="home.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li>Workspaces</li>
             </ul>
         </div>
@@ -30,7 +30,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="workspaces.html"><img src="assets/images/coworking-space/coworking-1.jpg" alt="image"></a>
+                        <a href="javascript:void(0)"><img src="assets/images/surya/daypass/1.jpg" alt="image"></a>
 
                         <div class="number">01</div>
                         <div class="hover-number">01</div>
@@ -38,24 +38,18 @@
 
                     <div class="content">
                         <h3>
-                            <a href="workspaces.html">Small Team</a>
+                            <a href="/pricing">Day Pass</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
                     </div>
 
-                    <div class="hover-content">
-                        <h3>
-                            <a href="workspaces.html">Small Team</a>
-                        </h3>
-                        <span>Single Desk & Hot Desk</span>
-                    </div>
+
                 </div>
             </div>
 
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="workspaces.html"><img src="assets/images/coworking-space/coworking-2.jpg" alt="image"></a>
+                        <a href="/pricing"><img src="assets/images/surya/dedicated/1.jpg" alt="image"></a>
 
                         <div class="number">02</div>
                         <div class="hover-number">02</div>
@@ -63,16 +57,16 @@
 
                     <div class="content">
                         <h3>
-                            <a href="workspaces.html">Office Space</a>
+                            <a href="/pricing">Dedicated Desk</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
+
                     </div>
 
                     <div class="hover-content">
                         <h3>
-                            <a href="workspaces.html">Office Space</a>
+                            <a href="/pricing">Dedicated Desk</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
+
                     </div>
                 </div>
             </div>
@@ -80,7 +74,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="workspaces.html"><img src="assets/images/coworking-space/coworking-3.jpg" alt="image"></a>
+                        <a href="/pricing"><img src="assets/images/surya/privateoffice/1.jpg" alt="image"></a>
 
                         <div class="number">03</div>
                         <div class="hover-number">03</div>
@@ -88,16 +82,14 @@
 
                     <div class="content">
                         <h3>
-                            <a href="workspaces.html">Conference Room</a>
+                            <a href="/pricing">Private Office</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
                     </div>
 
                     <div class="hover-content">
                         <h3>
-                            <a href="workspaces.html">Conference Room</a>
+                            <a href="/pricing">Private Office</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
                     </div>
                 </div>
             </div>
@@ -105,7 +97,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="workspaces.html"><img src="assets/images/coworking-space/coworking-4.jpg" alt="image"></a>
+                        <a href="/pricing"><img src="assets/images/surya/meetingroom/1.jpg" alt="image"></a>
 
                         <div class="number">04</div>
                         <div class="hover-number">04</div>
@@ -113,16 +105,14 @@
 
                     <div class="content">
                         <h3>
-                            <a href="workspaces.html">Private Office</a>
+                            <a href="/pricing">Meeting Room</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
                     </div>
 
                     <div class="hover-content">
                         <h3>
-                            <a href="workspaces.html">Private Office</a>
+                            <a href="/pricing">Meeting Room</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
                     </div>
                 </div>
             </div>
@@ -130,7 +120,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="workspaces.html"><img src="assets/images/coworking-space/coworking-5.jpg" alt="image"></a>
+                        <a href="/pricing"><img src="assets/images/surya/customspace/1.jpg" alt="image"></a>
 
                         <div class="number">05</div>
                         <div class="hover-number">05</div>
@@ -138,16 +128,14 @@
 
                     <div class="content">
                         <h3>
-                            <a href="workspaces.html">Custom Space</a>
+                            <a href="/pricing">Custom Space</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
                     </div>
 
                     <div class="hover-content">
                         <h3>
-                            <a href="workspaces.html">Custom Space</a>
+                            <a href="/pricing">Custom Space</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
                     </div>
                 </div>
             </div>
@@ -155,7 +143,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="workspaces.html"><img src="assets/images/coworking-space/coworking-6.jpg" alt="image"></a>
+                        <a href="/pricing"><img src="assets/images/surya/virtualoffice/1.jpg" alt="image"></a>
 
                         <div class="number">06</div>
                         <div class="hover-number">06</div>
@@ -163,16 +151,16 @@
 
                     <div class="content">
                         <h3>
-                            <a href="workspaces.html">Meeting Space</a>
+                            <a href="/pricing">Virtual Office</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
+
                     </div>
 
                     <div class="hover-content">
                         <h3>
-                            <a href="workspaces.html">Meeting Space</a>
+                            <a href="/pricing">Virtual Office</a>
                         </h3>
-                        <span>Single Desk & Hot Desk</span>
+
                     </div>
                 </div>
             </div>
@@ -182,7 +170,7 @@
 <!-- End Coworking Space Area -->
 
 <!-- Start Work Area -->
-<div class="work-area">
+<!-- <div class="work-area">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6">
@@ -232,6 +220,6 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Work Area -->
 @endsection

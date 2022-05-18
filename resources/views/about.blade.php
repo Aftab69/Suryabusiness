@@ -48,7 +48,7 @@
 <!-- End Benefits Area -->
 
 <!-- Start Work Area -->
-<div class="work-area">
+<!-- <div class="work-area">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6">
@@ -98,11 +98,11 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Work Area -->
 
 <!-- Start Video Area -->
-<div class="video-area-without-color ptb-100">
+<!-- <div class="video-area-without-color ptb-100">
     <div class="container">
         <div class="video-image-content">
             <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="video-btn popup-youtube">
@@ -115,128 +115,11 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Video Area -->
 
 <!-- Start Team Area -->
-<div class="team-area pt-100 pb-70">
-    <div class="container">
-        <div class="section-title">
-            <span>Multi-Office Team</span>
-            <h2>Our Modern Office Spaces Are Simply Stunning & Comfortable</h2>
-        </div>
 
-        <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-6">
-                <div class="single-team-box">
-                    <div class="image">
-                        <img src="assets/images/team/team-1.jpg" alt="image">
-
-                        <ul class="social">
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-facebook'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-twitter'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-instagram-alt'></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="content">
-                        <h3>Thomas Anthony</h3>
-                        <span>Founder & CEO</span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="single-team-box">
-                    <div class="image">
-                        <img src="assets/images/team/team-2.jpg" alt="image">
-
-                        <ul class="social">
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-facebook'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-twitter'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-instagram-alt'></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="content">
-                        <h3>Maria Anthony</h3>
-                        <span>Marketing Manager</span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="single-team-box">
-                    <div class="image">
-                        <img src="assets/images/team/team-3.jpg" alt="image">
-
-                        <ul class="social">
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-facebook'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-twitter'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class='bx bxl-instagram-alt'></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="content">
-                        <h3>Jniva Marlay</h3>
-                        <span>Lead Developer</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- End Team Area -->
 
 <!-- Start Review Area -->

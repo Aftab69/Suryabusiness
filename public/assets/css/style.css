@@ -1749,7 +1749,10 @@ Features Area CSS
 
 .single-box {
   position: relative;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
+  /* background-color: #9d3ae9; */
+  background-color: #192e3f;
+  /* background-color: #ff8758; */
   -webkit-box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1);
           box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1);
   border-radius: 15px;
@@ -1777,7 +1780,7 @@ Features Area CSS
 }
 
 .single-box h3 a {
-  color: #192e3f;
+  color: #ffffff;
 }
 
 .single-box h3 a:hover {
@@ -2020,6 +2023,7 @@ Overview Area CSS
 Choose Area CSS
 =================================================*/
 .single-choose {
+  text-align: center;
   margin-bottom: 30px;
 }
 
