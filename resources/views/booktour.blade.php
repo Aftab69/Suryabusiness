@@ -20,67 +20,9 @@
 <div class="events-booking-area pt-100 pb-100">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-5">
-                <div class="events-booking-content">
-                    <h3>What We Offer</h3>
 
-                    <ul class="booking-list">
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Actual office space that promoting productivity
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Meaningful connections with your team
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Increased productivity to get some work done
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Actual office space that promoting
-                        </li>
-                    </ul>
-                </div>
 
-                <div class="events-booking-content two">
-                    <h3>What We Have</h3>
-
-                    <ul class="booking-list">
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Unlimited access to all spaces (member of one, member of all)!
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Meaningful connections with your team
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Increased productivity to get some work done
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Free guest access for up to two hours
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Easy online booking for meeting room.
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Proessional business services including use of a networked
-                        </li>
-                        <li>
-                            <i class='bx bx-check'></i>
-                            Actual office space that promoting
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="col-lg-7">
+            <div class="col-md-12 col-sm-12">
                 <div class="events-booking-form">
                     <div class="events-booking-title">
                         <span>Booking Table</span>
@@ -101,16 +43,16 @@
                         </div>
 
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your Job">
+                            <input type="text" class="form-control" placeholder="Occupation/ Organization">
                         </div>
 
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your Visit. Your Preferred Date*">
+                            <input type="date" class="form-control" placeholder="Your Visit. Your Preferred Date*">
                         </div>
 
-                        <div class="form-group">
+                        <!-- <div class="form-group">
                             <input type="text" class="form-control" placeholder="Coupon Code">
-                        </div>
+                        </div> -->
 
                         <button type="submit" class="default-btn">Submit Now <i class='bx bx-send'></i> <span></span></button>
                     </form>

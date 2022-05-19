@@ -68,9 +68,7 @@
                             <a href="tel:+916001083238">+916001083238</a>
                         </li>
 
-                        <li>
-                            <i class='bx bx-map'></i>503, Orion Towers, GS Rd, Christian Basti, Guwahati, Assam 781005
-                        </li>
+
                     </ul>
                 </div>
 
@@ -133,7 +131,7 @@
                                 <a href="/workspaces" class="nav-link @yield('workspaces')">Workspaces</a>
                             </li>
                             <li class="nav-item">
-                                <a href="/pricing" class="nav-link @yield('pricing')">Membership</a>
+                                <a href="/pricing" class="nav-link @yield('pricing')">Pricing</a>
                             </li>
                             <li class="nav-item">
                                 <a href="/services" class="nav-link @yield('services')">Amenities</a>
@@ -202,7 +200,7 @@
                     <div class="single-footer-widget">
                         <div class="widget-logo">
                             <a href="home.html">
-                                <img src="assets/images/suryalogo.svg" alt="image">
+                                <img src="assets/images/suryalogo.svg" width="75%" alt="image">
                             </a>
                         </div>
                         <p>A professional work space, inspiring great minds in creating great things. We host people from diverse backgrounds such as digital nomads, entrepreneurs, freelancers, corporate employees and startup enthusiasts.</p>
@@ -217,6 +215,9 @@
                                 <i class='bx bx-envelope-open'></i>
                                 <a href="mailto:suryacoworking@gmail.com">suryacoworking@gmail.com</a>
                             </li>
+                            <li>
+                                <i class='bx bx-map'></i><a>503, Orion Towers, GS Rd, Christian Basti, Guwahati, Assam 781005</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -226,10 +227,9 @@
                         <h3>Our Company</h3>
 
                         <ul class="footer-links-list">
-                            <li><a href="/contact">Contact Us</a></li>
                             <li><a href="/about">About Us</a></li>
-                            <li><a href="/pricing">Membership</a></li>
-                            <li><a href="">Careers</a></li>
+                            <li><a href="/pricing">Pricing</a></li>
+                            <!-- <li><a href="">Careers</a></li> -->
                             <li><a href="">Blogs</a></li>
                         </ul>
                     </div>
@@ -254,10 +254,9 @@
                         <h3>All Support</h3>
 
                         <ul class="footer-links-list">
-                            <li><a href="">Help Desk</a></li>
+                            <li><a href="/contact">Help Desk</a></li>
                             <li><a href="/book-tour">Book A Tour</a></li>
-                            <li><a href="/about">Know Us</a></li>
-                            <li><a href="/pricing">Virtual Office</a></li>
+
                         </ul>
 
                         <ul class="widget-social">

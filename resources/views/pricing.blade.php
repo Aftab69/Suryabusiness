@@ -7,11 +7,11 @@
 <div class="page-banner-area">
     <div class="container">
         <div class="page-banner-content">
-            <h2>Membership</h2>
+            <h2>Pricing</h2>
 
             <ul class="pages-list">
                 <li><a href="/">Home</a></li>
-                <li>Membership</li>
+                <li>Pricing</li>
             </ul>
         </div>
     </div>
@@ -32,7 +32,7 @@
                         <h3>Day Pass </h3>
                     </div>
 
-                    <div class="price">₹500 <span>per seat/ per person</span></div>
+                    <div class="price">₹450* <span>per seat/ per person</span></div>
 
                     <p>PAX: 1</p>
                     <p></p>
@@ -49,6 +49,7 @@
 
                     <div class="membership-btn">
                         <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
                     </div>
                 </div>
             </div>
@@ -59,7 +60,7 @@
                         <h3>Dedicated Desk (<i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
-                    <div class="price">₹5000 <span>per seat/ per person/ per month</span></div>
+                    <div class="price">₹4000* <span>per seat/ per person/ per month</span></div>
 
                     <p>PAX: 1</p>
                     <p></p>
@@ -72,12 +73,13 @@
                         <li><i class="bx bx-check"></i>Complimentary tea & coffee</li>
                         <li><i class="bx bx-check"></i>Complimentary 1 hours meeting room
                             credits per month</li>
-                        <li class="color-gray"><i class="bx bx-check"></i>Complimentary 20 pages B/W print
+                        <li><i class="bx bx-check"></i>Complimentary 20 pages B/W print
                             credits per month</li>
                     </ul>
 
                     <div class="membership-btn">
                         <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
                     </div>
                 </div>
             </div>
@@ -88,7 +90,7 @@
                         <h3>Dedicated Desk (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
-                    <div class="price">₹2000 <span>per seat/ per person/ per month</span></div>
+                    <div class="price">₹2000* <span>per seat/ per person/ per month</span></div>
 
                     <p>PAX: 4</p>
                     <p></p>
@@ -107,6 +109,7 @@
 
                     <div class="membership-btn">
                         <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
                     </div>
                 </div>
             </div>
@@ -131,7 +134,7 @@
                         <h3>Dedicated Desk (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
-                    <div class="price">₹2500 <span> per seat/ per person/ per month</span></div>
+                    <div class="price">₹2500* <span> per seat/ per person/ per month</span></div>
 
                     <p>PAX: 3</p>
                     <p></p>
@@ -150,6 +153,7 @@
 
                     <div class="membership-btn">
                         <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
                     </div>
                 </div>
             </div>
@@ -160,7 +164,7 @@
                         <h3>Private Cabin (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
-                    <div class="price">₹8000 <span> per seat/ per person/ per month</span></div>
+                    <div class="price">₹6000* <span> per seat/ per person/ per month</span></div>
 
                     <p>PAX: 4</p>
                     <p></p>
@@ -183,6 +187,7 @@
 
                     <div class="membership-btn">
                         <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
                     </div>
                 </div>
             </div>
@@ -193,7 +198,7 @@
                         <h3>Private Cabin (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
-                    <div class="price">₹10000 <span> per seat/ per person/ per month</span></div>
+                    <div class="price">₹9000* <span> per seat/ per person/ per month</span></div>
 
                     <p>PAX: 6</p>
                     <p></p>
@@ -218,16 +223,82 @@
 
                     <div class="membership-btn">
                         <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-lg-4 col-md-6">
+                <div class="single-membership-table">
+                    <div class="membership-header">
+                        <h3>Virtual Office 1.0</h3>
+                    </div>
+
+                    <div class="price">₹18000* <span>per year</span> <br>
+                        Or <br>
+                        ₹10800 <span>for 6 Months</span></div>
+
+
+                    <p></p>
+
+                    <!-- <p>Proin gravida nibh vel velit auctor aliquet here. Aenean sollicitudin lorem quis bibendum auctor nisi elit consequat ipsum.</p> -->
+
+                    <ul class="membership-features-list">
+                        <li><i class="bx bx-check"></i> Mailing Address at prime location</li>
+                        <li><i class="bx bx-check"></i> Mail Handling(15 Day Storage)</li>
+                        <li><i class="bx bx-check"></i> Reception Facility</li>
+                        <li><i class="bx bx-check"></i> Landline No. Facility</li>
+                        <li><i class="bx bx-check"></i> Complimentary 1 hour meeting room credits</li>
+                    </ul>
+
+                    <div class="membership-btn">
+                        <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="single-membership-table">
                     <div class="membership-header">
-                        <h3>Virtual Office</h3>
+                        <h3>Virtual Office 2.0</h3>
                     </div>
 
-                    <div class="price">₹30000 <span>per year</span> <br>
+                    <div class="price">₹24000* <span>per year</span> <br>
+                        Or <br>
+                        ₹14400 <span>for 6 Months</span></div>
+
+
+                    <p></p>
+
+                    <!-- <p>Proin gravida nibh vel velit auctor aliquet here. Aenean sollicitudin lorem quis bibendum auctor nisi elit consequat ipsum.</p> -->
+
+                    <ul class="membership-features-list">
+                        <li><i class="bx bx-check"></i> Complete documentation for GST
+                            registration</li>
+                        <li><i class="bx bx-check"></i> Exclusive display of Company Name GST no.</li>
+                        <li><i class="bx bx-check"></i> Mailing Address at prime location</li>
+                        <li><i class="bx bx-check"></i> Mail Handling(15 Day Storage)</li>
+                        <li><i class="bx bx-check"></i> Reception Facility</li>
+                        <li><i class="bx bx-check"></i> Landline No. Facility</li>
+                        <li><i class="bx bx-check"></i> Complimentary 1 hour meeting room credits</li>
+                    </ul>
+
+                    <div class="membership-btn">
+                        <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-lg-4 col-md-6">
+                <div class="single-membership-table">
+                    <div class="membership-header">
+                        <h3>Virtual Office 3.0</h3>
+                    </div>
+
+                    <div class="price">₹30000* <span>per year</span> <br>
                         Or <br>
                         ₹17000 <span>for 6 Months</span></div>
 
@@ -249,6 +320,7 @@
 
                     <div class="membership-btn">
                         <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
                     </div>
                 </div>
             </div>

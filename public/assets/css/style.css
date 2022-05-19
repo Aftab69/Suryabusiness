@@ -3580,6 +3580,20 @@ Events Booking Area CSS
   padding: 35px;
   border-radius: 5px;
   background-color: #ff8758;
+  margin:0 auto;
+  width: 800px;
+}
+
+@media screen and (max-width: 600px) {
+  .events-booking-form {
+  padding: 35px;
+  border-radius: 5px;
+  background-color: #ff8758;
+  margin:0 auto;
+  width: 100%;
+}
+
+  
 }
 
 .events-booking-form .events-booking-title {
