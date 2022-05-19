@@ -123,7 +123,7 @@
 <!-- End Team Area -->
 
 <!-- Start Review Area -->
-<div class="review-area ptb-100">
+<!-- <div class="review-area ptb-100">
     <div class="container">
         <div class="review-slides owl-carousel owl-theme">
             <div class="row align-items-center">
@@ -253,6 +253,6 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Review Area -->
 @endsection
