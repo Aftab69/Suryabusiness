@@ -60,7 +60,7 @@
                     <ul class="top-header-content">
                         <li>
                             <i class='bx bx-envelope'></i>
-                            <a href="mailto:suryacoworking@gmail.com">suryacoworking@gmail.com</a>
+                            <a href="mailto:info@suryabusinesscentre.com">info@suryabusinesscentre.com</a>
                         </li>
 
                         <li>
@@ -213,7 +213,7 @@
 
                             <li>
                                 <i class='bx bx-envelope-open'></i>
-                                <a href="mailto:suryacoworking@gmail.com">suryacoworking@gmail.com</a>
+                                <a href="mailto:info@suryabusinesscentre.com">info@suryabusinesscentre.com</a>
                             </li>
                             <li>
                                 <i class='bx bx-map'></i><a>503, Orion Towers, GS Rd, Christian Basti, Guwahati, Assam 781005</a>
