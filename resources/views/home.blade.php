@@ -288,7 +288,7 @@
 
                     <div class="solution-content">
                         <h3>
-                            <a href="/workspaces">Custom Space</a>
+                            <a href="/workspaces">Private Cabin</a>
                         </h3>
                         <p>Customize your own space according to your requirements and
                             budget.</p>
