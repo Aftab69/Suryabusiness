@@ -96,8 +96,8 @@
                 <div class="main-responsive-menu">
                     <div class="logo">
                         <a href="/">
-                            <img src="assets/images/suryalogo.svg" class="black-logo" alt="image">
-                            <img src="assets/images/suryalogo.svg" class="white-logo" alt="image">
+                            <img src="assets/images/suryalogo.svg" class="black-logo" alt="image" width="150">
+                            <img src="assets/images/suryalogo.svg" class="white-logo" alt="image" width="150">
                         </a>
                     </div>
                 </div>
@@ -199,7 +199,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-footer-widget">
                         <div class="widget-logo">
-                            <a href="home.html">
+                            <a href="/">
                                 <img src="assets/images/suryalogo.svg" width="75%" alt="image">
                             </a>
                         </div>
@@ -296,10 +296,10 @@
                         <div class="col-lg-6 col-md-6">
                             <ul>
                                 <li>
-                                    <a href="terms-of-service.html">Terms of Service</a>
+                                    <a href="#">Terms of Service</a>
                                 </li>
                                 <li>
-                                    <a href="privacy-policy.html">Privacy Policy</a>
+                                    <a href="#">Privacy Policy</a>
                                 </li>
                             </ul>
                         </div>

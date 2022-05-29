@@ -35,7 +35,7 @@
                     <div class="price">₹500* <span>per hour</span> <br>
                         ₹1000* <span>2 hours</span> <br>
                         ₹1800* <span>4 hours</span> <br>
-                        ₹3400* <span>8 hours</span>
+                        ₹3300* <span>8 hours</span>
                     </div>
 
                     <p>PAX: 6-12</p>
@@ -90,7 +90,7 @@
                         <h3>Dedicated Desk (<i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
-                    <div class="price">₹4000* <span>per seat/ per person/ per month</span></div>
+                    <div class="price">₹4500* <span>per seat/ per person/ per month</span></div>
 
                     <p>PAX: 1</p>
                     <p></p>
@@ -194,7 +194,7 @@
                         <h3>Private Office (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
-                    <div class="price">₹6000* <span> per seat/ per person/ per month</span></div>
+                    <div class="price">₹7000* <span> per seat/ per person/ per month</span></div>
 
                     <p>PAX: 4</p>
                     <p></p>

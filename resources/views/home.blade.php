@@ -390,7 +390,7 @@
 
             <div class="col-lg-5">
                 <div class="benefits-image">
-                    <img src="assets/images/benefits.jpg" alt="image">
+                    <img src="assets/images/surya/otherimages/highlightimage.jpg" alt="image">
                 </div>
             </div>
         </div>

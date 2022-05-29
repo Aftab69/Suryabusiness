@@ -1027,7 +1027,7 @@ Navbar Area CSS
 Main Slides Area CSS
 =================================================*/
 .main-slides-item {
-  background-image: url(../images/surya/banner2.jpg);
+  background-image: url(../images/surya/otherimages/bannersecond.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1038,12 +1038,12 @@ Main Slides Area CSS
 }
 
 .main-slides-item.item-two {
-  background-image: url(../images/surya/banner2.jpg);
+  background-image: url(../images/surya/otherimages/bannersecond.jpg);
   
 }
 
 .main-slides-item.item-three {
-  background-image: url(../images/surya/banner2.jpg);
+  background-image: url(../images/surya/otherimages/bannersecond.jpg);
 
 }
 
@@ -3304,7 +3304,7 @@ Review Area CSS
 Page Banner CSS
 =================================================*/
 .page-banner-area {
-  background-image: url(../images/page-banner/page-banner-bg-1.jpg);
+  background-image: url(../images/surya/otherimages/bannerthird.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
