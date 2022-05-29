@@ -60,36 +60,36 @@
         <div class="row justify-content-center">
             <div class="col-lg-3 col-sm-6">
                 <div class="single-box">
-                    <a href="javascript:void(0)"><img src="assets/images/features/features-1.png" alt="image"></a>
+                    <a href="javascript:void(0)" style="cursor:default"><img src="assets/images/features/features-1.png" alt="image"></a>
                     <h3>
-                        <a href="javascript:void(0)">Office Space</a>
+                        <a href="javascript:void(0)" style="cursor:default">Office Space</a>
                     </h3>
                 </div>
             </div>
 
             <div class="col-lg-3 col-sm-6">
                 <div class="single-box">
-                    <a href="javascript:void(0)"><img src="assets/images/features/features-2.png" alt="image"></a>
+                    <a href="javascript:void(0)" style="cursor:default"><img src="assets/images/features/features-2.png" alt="image"></a>
                     <h3>
-                        <a href="javascript:void(0)">High Speed Wifi</a>
+                        <a href="javascript:void(0)" style="cursor:default">High Speed Wifi</a>
                     </h3>
                 </div>
             </div>
 
             <div class="col-lg-3 col-sm-6">
                 <div class="single-box">
-                    <a href="javascript:void(0)"><img src="assets/images/features/features-3.png" alt="image"></a>
+                    <a href="javascript:void(0)" style="cursor:default"><img src="assets/images/features/features-3.png" alt="image"></a>
                     <h3>
-                        <a href="javascript:void(0)">Customize Space</a>
+                        <a href="javascript:void(0)" style="cursor:default">Private Office</a>
                     </h3>
                 </div>
             </div>
 
             <div class="col-lg-3 col-sm-6">
                 <div class="single-box">
-                    <a href="javascript:void(0)"><img src="assets/images/features/features-4.png" alt="image"></a>
+                    <a href="javascript:void(0)" style="cursor:default"><img src="assets/images/features/features-4.png" alt="image"></a>
                     <h3>
-                        <a href="javascript:void(0)">Snacks & Coffee</a>
+                        <a href="javascript:void(0)" style="cursor:default">Snacks & Coffee</a>
                     </h3>
                 </div>
             </div>
@@ -110,7 +110,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="javascript:void(0)"><img src="assets/images/surya/daypass/1.jpg" alt="image"></a>
+                        <a href="javascript:void(0)"><img src="assets/images/surya/selected/daypass.jpeg" alt="image"></a>
 
                         <div class="number">01</div>
                         <div class="hover-number">01</div>
@@ -133,7 +133,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="workspaces.html"><img src="assets/images/surya/dedicated/1.jpg" alt="image"></a>
+                        <a href="workspaces.html"><img src="assets/images/surya/selected/dedicateddesk.jpeg" alt="image"></a>
 
                         <div class="number">02</div>
                         <div class="hover-number">02</div>
@@ -156,7 +156,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-coworking-space">
                     <div class="image">
-                        <a href="workspaces.html"><img src="assets/images/surya/privateoffice/1.jpg" alt="image"></a>
+                        <a href="workspaces.html"><img src="assets/images/surya/selected/privateoffice.jpeg" alt="image"></a>
 
                         <div class="number">03</div>
                         <div class="hover-number">03</div>
@@ -211,7 +211,7 @@
                     </div>
 
                     <h3>
-                        <a href="/workspaces">Customize Space</a>
+                        <a href="javascript:void(0)" style="cursor:default">Productivity</a>
                     </h3>
                 </div>
             </div>
@@ -223,7 +223,7 @@
                     </div>
 
                     <h3>
-                        <a href="/workspaces">Creative Co-working space.</a>
+                        <a href="javascript:void(0)" style="cursor:default">Creative Co-working space.</a>
                     </h3>
                 </div>
             </div>
@@ -235,7 +235,7 @@
                     </div>
 
                     <h3>
-                        <a href="/workspaces">Virtual Office</a>
+                        <a href="javascript:void(0)" style="cursor:default">Virtual Office</a>
                     </h3>
                 </div>
             </div>
@@ -247,7 +247,7 @@
                     </div>
 
                     <h3>
-                        <a href="/workspaces">24/7 Access</a>
+                        <a href="javascript:void(0)" style="cursor:default">24/7 Access</a>
                     </h3>
                 </div>
             </div>
@@ -267,12 +267,12 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-solution">
                     <div class="solution-image">
-                        <a href="/workspaces"><img src="assets/images/surya/meetingroom/1.jpg" alt="image"></a>
+                        <a href="/workspaces"><img src="assets/images/surya/selected/conference.jpeg" alt="image"></a>
                     </div>
 
                     <div class="solution-content">
                         <h3>
-                            <a href="/workspaces">Meeting Room</a>
+                            <a href="/workspaces">Conference Room</a>
                         </h3>
                         <p>A board meeting or a brainstorming session, there is room for any
                             team size.</p>
@@ -283,7 +283,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-solution">
                     <div class="solution-image">
-                        <a href="/workspaces"><img src="assets/images/surya/customspace/1.jpg" alt="image"></a>
+                        <a href="/workspaces"><img src="assets/images/surya/selected/customspace.jpeg" alt="image"></a>
                     </div>
 
                     <div class="solution-content">
@@ -299,7 +299,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-solution">
                     <div class="solution-image">
-                        <a href="/workspaces"><img src="assets/images/surya/virtualoffice/1.jpg" alt="image"></a>
+                        <a href="/workspaces"><img src="assets/images/surya/selected/virtualoffice.jpeg" alt="image"></a>
                     </div>
 
                     <div class="solution-content">

@@ -29,6 +29,36 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-membership-table">
                     <div class="membership-header">
+                        <h3>Conference Room </h3>
+                    </div>
+
+                    <div class="price">₹500* <span>per hour</span> <br>
+                        ₹1000* <span>2 hours</span> <br>
+                        ₹1800* <span>4 hours</span> <br>
+                        ₹3400* <span>8 hours</span>
+                    </div>
+
+                    <p>PAX: 6-12</p>
+                    <p></p>
+
+                    <ul class="membership-features-list">
+                        <li><i class="bx bx-check"></i>Ergonomic seating & design (6-12pax)</li>
+                        <li><i class="bx bx-check"></i>65 inch LED Smart TV</li>
+                        <li><i class="bx bx-check"></i>Video Conferencing</li>
+                        <li><i class="bx bx-check"></i>Presentation and Mic facilities</li>
+                        <li><i class="bx bx-check"></i>White board</li>
+                        <li><i class="bx bx-check"></i>Complimentary tea & coffee</li>
+                    </ul>
+
+                    <div class="membership-btn">
+                        <a href="/book-tour" class="default-btn">Book A Tour <i class="bx bxs-chevron-right"></i><span></span></a>
+                        <p>*All the prices are exclusive of 18% GST.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-membership-table">
+                    <div class="membership-header">
                         <h3>Day Pass </h3>
                     </div>
 
@@ -73,7 +103,7 @@
                         <li><i class="bx bx-check"></i>Complimentary tea & coffee</li>
                         <li><i class="bx bx-check"></i>Complimentary 1 hours meeting room
                             credits per month</li>
-                        <li><i class="bx bx-check"></i>Complimentary 20 pages B/W print
+                        <li><i class="bx bx-check"></i>Complimentary 10 pages B/W print
                             credits per month</li>
                     </ul>
 
@@ -103,7 +133,7 @@
                         <li><i class="bx bx-check"></i> Complimentary tea & coffee</li>
                         <li><i class="bx bx-check"></i> Complimentary 1 hours meeting room
                             credits per month</li>
-                        <li><i class="bx bx-check"></i> Complimentary 20 pages B/W print
+                        <li><i class="bx bx-check"></i> Complimentary 10 pages B/W print
                             credits per month</li>
                     </ul>
 
@@ -147,7 +177,7 @@
                         <li><i class="bx bx-check"></i> Complimentary tea & coffee</li>
                         <li><i class="bx bx-check"></i> Complimentary 1 hours meeting room
                             credits per month</li>
-                        <li><i class="bx bx-check"></i> Complimentary 20 pages B/W print
+                        <li><i class="bx bx-check"></i> Complimentary 10 pages B/W print
                             credits per month</li>
                     </ul>
 
@@ -161,7 +191,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-membership-table">
                     <div class="membership-header">
-                        <h3>Private Cabin (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
+                        <h3>Private Office (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
                     <div class="price">₹6000* <span> per seat/ per person/ per month</span></div>
@@ -172,7 +202,7 @@
                     <!-- <p>Proin gravida nibh vel velit auctor aliquet here. Aenean sollicitudin lorem quis bibendum auctor nisi elit consequat ipsum.</p> -->
 
                     <ul class="membership-features-list">
-                        <li><i class="bx bx-check"></i> Dedicated desk in a private cabin</li>
+                        <li><i class="bx bx-check"></i> Dedicated desk in a private office</li>
                         <li><i class="bx bx-check"></i> Exclusive display of comapany name gst
                             no.</li>
                         <li><i class="bx bx-check"></i> Complimentary high speed wifi</li>
@@ -195,7 +225,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-membership-table">
                     <div class="membership-header">
-                        <h3>Private Cabin (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
+                        <h3>Private Office (<i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i> <i class='bx bx-chair'></i></i>)</h3>
                     </div>
 
                     <div class="price">₹9000* <span> per seat/ per person/ per month</span></div>
@@ -206,7 +236,7 @@
                     <!-- <p>Proin gravida nibh vel velit auctor aliquet here. Aenean sollicitudin lorem quis bibendum auctor nisi elit consequat ipsum.</p> -->
 
                     <ul class="membership-features-list">
-                        <li><i class="bx bx-check"></i> Dedicated desk in a private cabin</li>
+                        <li><i class="bx bx-check"></i> Dedicated desk in a private office</li>
                         <li><i class="bx bx-check"></i> Exclusive display of comapany name gst
                             no.</li>
                         <li><i class="bx bx-check"></i> Complimentary high speed wifi</li>
@@ -245,6 +275,7 @@
                     <!-- <p>Proin gravida nibh vel velit auctor aliquet here. Aenean sollicitudin lorem quis bibendum auctor nisi elit consequat ipsum.</p> -->
 
                     <ul class="membership-features-list">
+                        <li><i class="bx bx-check"></i> Exclusive display of Company Name and GST no.</li>
                         <li><i class="bx bx-check"></i> Mailing Address at prime location</li>
                         <li><i class="bx bx-check"></i> Mail Handling(15 Day Storage)</li>
                         <li><i class="bx bx-check"></i> Reception Facility</li>
@@ -274,14 +305,14 @@
                     <!-- <p>Proin gravida nibh vel velit auctor aliquet here. Aenean sollicitudin lorem quis bibendum auctor nisi elit consequat ipsum.</p> -->
 
                     <ul class="membership-features-list">
-                        <li><i class="bx bx-check"></i> Complete documentation for GST
-                            registration</li>
+                        <li><i class="bx bx-check"></i> GST
+                            registration - Complete documentation</li>
                         <li><i class="bx bx-check"></i> Exclusive display of Company Name GST no.</li>
                         <li><i class="bx bx-check"></i> Mailing Address at prime location</li>
                         <li><i class="bx bx-check"></i> Mail Handling(15 Day Storage)</li>
                         <li><i class="bx bx-check"></i> Reception Facility</li>
                         <li><i class="bx bx-check"></i> Landline No. Facility</li>
-                        <li><i class="bx bx-check"></i> Complimentary 1 hour meeting room credits</li>
+                        <li><i class="bx bx-check"></i> Complimentary 2 hours meeting room credits</li>
                     </ul>
 
                     <div class="membership-btn">
@@ -315,7 +346,7 @@
                         <li><i class="bx bx-check"></i> Mail Handling(15 Day Storage)</li>
                         <li><i class="bx bx-check"></i> Reception Facility</li>
                         <li><i class="bx bx-check"></i> Landline No. Facility</li>
-                        <li><i class="bx bx-check"></i> Complimentary 1 hour meeting room credits</li>
+                        <li><i class="bx bx-check"></i> Complimentary 3 hours meeting room credits</li>
                     </ul>
 
                     <div class="membership-btn">
