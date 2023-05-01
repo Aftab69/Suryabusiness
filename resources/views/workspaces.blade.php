@@ -33,7 +33,9 @@
                         <a href="javascript:void(0)"><img src="assets/images/surya/selected/daypass.jpeg" alt="image"></a>
 
                         <div class="number">01</div>
+                        <!-- sold out banner added -->
                         <div style="width:100px;height:50px;right:5px;left:unset;top:5px;bottom:unset;font-size:15px;line-height:20px;display:flex;justify-content:center;align-items:center" class="number">Sold Out !</div>
+
                         <div class="hover-number">01</div>
                     </div>
 
@@ -64,6 +66,9 @@
                         <a href="/pricing"><img src="assets/images/surya/selected/dedicateddesk.jpeg" alt="image"></a>
 
                         <div class="number">02</div>
+                        <!-- sold out banner added -->
+                        <div style="width:100px;height:50px;right:5px;left:unset;top:5px;bottom:unset;font-size:15px;line-height:20px;display:flex;justify-content:center;align-items:center" class="number">Sold Out !</div>
+                        
                         <div class="hover-number">02</div>
                     </div>
 
@@ -92,6 +97,9 @@
                         <a href="/pricing"><img src="assets/images/surya/selected/privateoffice.jpeg" alt="image"></a>
 
                         <div class="number">03</div>
+                        <!-- sold out banner added -->
+                        <div style="width:100px;height:50px;right:5px;left:unset;top:5px;bottom:unset;font-size:15px;line-height:20px;display:flex;justify-content:center;align-items:center" class="number">Sold Out !</div>
+                        
                         <div class="hover-number">03</div>
                     </div>
 
@@ -118,6 +126,9 @@
                         <a href="/pricing"><img src="assets/images/surya/selected/conference.jpeg" alt="image"></a>
 
                         <div class="number">04</div>
+                        <!-- sold out banner added -->
+                        <div style="width:100px;height:50px;right:5px;left:unset;top:5px;bottom:unset;font-size:15px;line-height:20px;display:flex;justify-content:center;align-items:center" class="number">Sold Out !</div>
+                        
                         <div class="hover-number">04</div>
                     </div>
 
@@ -146,6 +157,9 @@
                         <a href="/pricing"><img src="assets/images/surya/selected/customspace.jpeg" alt="image"></a>
 
                         <div class="number">05</div>
+                        <!-- sold out banner added -->
+                        <div style="width:100px;height:50px;right:5px;left:unset;top:5px;bottom:unset;font-size:15px;line-height:20px;display:flex;justify-content:center;align-items:center" class="number">Sold Out !</div>
+                        
                         <div class="hover-number">05</div>
                     </div>
 
@@ -173,6 +187,9 @@
                         <a href="/pricing"><img src="assets/images/surya/selected/virtualoffice.jpeg" alt="image"></a>
 
                         <div class="number">06</div>
+                        <!-- sold out banner added -->
+                        <div style="width:100px;height:50px;right:5px;left:unset;top:5px;bottom:unset;font-size:15px;line-height:20px;display:flex;justify-content:center;align-items:center" class="number">Sold Out !</div>
+                        
                         <div class="hover-number">06</div>
                     </div>
 
