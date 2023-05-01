@@ -33,6 +33,7 @@
                         <a href="javascript:void(0)"><img src="assets/images/surya/selected/daypass.jpeg" alt="image"></a>
 
                         <div class="number">01</div>
+                        <div style="width:100px;height:50px;right:5px;left:unset;top:5px;bottom:unset;font-size:15px;line-height:20px;display:flex;justify-content:center;align-items:center" class="number">Sold Out !</div>
                         <div class="hover-number">01</div>
                     </div>
 
