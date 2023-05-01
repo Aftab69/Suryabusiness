@@ -7,7 +7,7 @@
 <div class="page-banner-area">
     <div class="container">
         <div class="page-banner-content">
-            <h2>Workspace</h2>
+            <h2>Workspaces</h2>
 
             <ul class="pages-list">
                 <li><a href="/">Home</a></li>
